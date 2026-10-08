@@ -15,7 +15,7 @@ Experiments Platform – run and test experimental features
 
 FormAT is designed to keep systems running smoothly while providing advanced tools for productivity and experimentation.
 
-### Developed by ZatQasim (Mohamed Daud Mohamed)
+### Developed by Alcapacit Project (ZatQasim)
 
 
 ---
